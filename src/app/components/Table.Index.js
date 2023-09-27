@@ -96,11 +96,11 @@ function TableIndex() {
         "Enrolment Date & Time": "Fri Sep 01 2023 22:39:32 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/80425501-a646-476e-bc82-e2bfb92e5f8b",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
+        "# of Courses Completed": 4,
+        "# of Skill Badges Completed": 4,
+        "# of GenAI Game Completed": 1,
         "Sum": 0,
-        "Total Completions of both Pathways": "No",
+        "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
       {
