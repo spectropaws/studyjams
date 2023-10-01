@@ -15,7 +15,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -29,7 +29,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -43,7 +43,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -57,7 +57,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -71,7 +71,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -85,7 +85,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -99,7 +99,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -113,7 +113,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -127,7 +127,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -141,7 +141,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -155,7 +155,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -169,7 +169,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -183,7 +183,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -197,7 +197,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -211,7 +211,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -225,7 +225,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -239,7 +239,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -253,7 +253,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -267,7 +267,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -281,7 +281,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -295,7 +295,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -309,7 +309,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -323,7 +323,7 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 9,
+        "sum": 9,
         "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
@@ -335,10 +335,10 @@ function TableIndex() {
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bce2667e-4a83-4cad-b97f-e5e8bf64faa0",
         "# of Courses Completed": 4,
-        "# of Skill Badges Completed": 3,
-        "# of GenAI Game Completed": 0,
-        "Sum": 7,
-        "Total Completions of both Pathways": "No",
+        "# of Skill Badges Completed": 4,
+        "# of GenAI Game Completed": 1,
+        "sum": 9,
+        "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
       {
@@ -348,11 +348,67 @@ function TableIndex() {
         "Enrolment Date & Time": "Fri Sep 01 2023 21:56:50 GMT+0530 (GMT+05:30)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f6af6016-378a-4516-bdca-54f04011b6ac",
-        "# of Courses Completed": 3,
-        "# of Skill Badges Completed": 2,
+        "# of Courses Completed": 4,
+        "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 6,
-        "Total Completions of both Pathways": "No",
+        "sum": 9,
+        "Total Completions of both Pathways": "Yes",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Atharva Dhiraj kumare",
+        "Student Email": "atharvakumare13@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 22:22:42 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/dc6c16d3-2e75-4298-8639-ec3c35018470",
+        "# of Courses Completed": 4,
+        "# of Skill Badges Completed": 4,
+        "# of GenAI Game Completed": 1,
+        "sum": 9,
+        "Total Completions of both Pathways": "Yes",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Omkar Kawadghare",
+        "Student Email": "21071198@ycce.in",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 22:32:24 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/653a06a8-fcf6-4ed3-8561-eab96b156611",
+        "# of Courses Completed": 4,
+        "# of Skill Badges Completed": 4,
+        "# of GenAI Game Completed": 1,
+        "sum": 9,
+        "Total Completions of both Pathways": "Yes",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "ATHARVA NERKAR",
+        "Student Email": "nerkaratharva9@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 22:55:15 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/9497a374-9d25-41fc-8691-b608a26c45da",
+        "# of Courses Completed": 4,
+        "# of Skill Badges Completed": 4,
+        "# of GenAI Game Completed": 1,
+        "sum": 9,
+        "Total Completions of both Pathways": "Yes",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Chinmay Lokhande",
+        "Student Email": "chinmaylokhande22@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:01:24 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c8d6ec48-34ab-4118-a33a-730b63df87fa",
+        "# of Courses Completed": 4,
+        "# of Skill Badges Completed": 4,
+        "# of GenAI Game Completed": 1,
+        "sum": 9,
+        "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
       },
       {
@@ -362,10 +418,38 @@ function TableIndex() {
         "Enrolment Date & Time": "Fri Sep 01 2023 23:11:40 GMT+0530 (GMT+05:30)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bbd0733c-d5cd-4636-82a1-57d5b2aea678",
-        "# of Courses Completed": 3,
-        "# of Skill Badges Completed": 2,
+        "# of Courses Completed": 4,
+        "# of Skill Badges Completed": 4,
         "# of GenAI Game Completed": 1,
-        "Sum": 6,
+        "sum": 9,
+        "Total Completions of both Pathways": "Yes",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "AYUSH KRUSHNA DHOLE",
+        "Student Email": "23070474@ycce.in",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Sat Sep 02 2023 17:11:58 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1757f91e-e0e0-45cf-b19c-8dc7df8deb9e",
+        "# of Courses Completed": 3,
+        "# of Skill Badges Completed": 4,
+        "# of GenAI Game Completed": 1,
+        "sum": 8,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Shivam Prashant Saraf",
+        "Student Email": "22071365@ycce.in",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:19:58 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/910b1ad2-4a1e-4610-85b0-fc17dc54e427",
+        "# of Courses Completed": 4,
+        "# of Skill Badges Completed": 1,
+        "# of GenAI Game Completed": 1,
+        "sum": 6,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -379,21 +463,21 @@ function TableIndex() {
         "# of Courses Completed": 4,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 1,
-        "Sum": 5,
+        "sum": 5,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
       {
-        "Student Name": "Chinmay Lokhande",
-        "Student Email": "chinmaylokhande22@gmail.com",
+        "Student Name": "Vinay Ramesh Kamdi",
+        "Student Email": "21070941@ycce.in",
         "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:01:24 GMT+0530 (GMT+05:30)",
+        "Enrolment Date & Time": "Fri Sep 01 2023 22:40:52 GMT+0530 (GMT+05:30)",
         "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c8d6ec48-34ab-4118-a33a-730b63df87fa",
-        "# of Courses Completed": 2,
-        "# of Skill Badges Completed": 2,
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a7a31a1a-0689-4dff-9e12-3a5fb03a8291",
+        "# of Courses Completed": 3,
+        "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 1,
-        "Sum": 5,
+        "sum": 4,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -407,49 +491,7 @@ function TableIndex() {
         "# of Courses Completed": 3,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 1,
-        "Sum": 4,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
-      },
-      {
-        "Student Name": "AYUSH KRUSHNA DHOLE",
-        "Student Email": "23070474@ycce.in",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Sat Sep 02 2023 17:11:58 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1757f91e-e0e0-45cf-b19c-8dc7df8deb9e",
-        "# of Courses Completed": 1,
-        "# of Skill Badges Completed": 2,
-        "# of GenAI Game Completed": 1,
-        "Sum": 4,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
-      },
-      {
-        "Student Name": "Omkar Kawadghare",
-        "Student Email": "21071198@ycce.in",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 22:32:24 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/653a06a8-fcf6-4ed3-8561-eab96b156611",
-        "# of Courses Completed": 1,
-        "# of Skill Badges Completed": 1,
-        "# of GenAI Game Completed": 1,
-        "Sum": 3,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
-      },
-      {
-        "Student Name": "Shivam Prashant Saraf",
-        "Student Email": "22071365@ycce.in",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:19:58 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/910b1ad2-4a1e-4610-85b0-fc17dc54e427",
-        "# of Courses Completed": 3,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 3,
+        "sum": 4,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -461,9 +503,9 @@ function TableIndex() {
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/60966342-8973-4017-9830-cf4ed33b8418",
         "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 1,
+        "# of Skill Badges Completed": 2,
         "# of GenAI Game Completed": 1,
-        "Sum": 2,
+        "sum": 3,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -474,10 +516,66 @@ function TableIndex() {
         "Enrolment Date & Time": "Fri Sep 01 2023 23:08:09 GMT+0530 (GMT+05:30)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/81fb6ccc-930e-41be-b569-82e7d4ce8b6e",
+        "# of Courses Completed": 2,
+        "# of Skill Badges Completed": 0,
+        "# of GenAI Game Completed": 1,
+        "sum": 3,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Arya Liladhar Choudhary",
+        "Student Email": "aryac0803@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:26:47 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/85adc7f4-8542-4606-a0df-38cba994f974",
+        "# of Courses Completed": 1,
+        "# of Skill Badges Completed": 2,
+        "# of GenAI Game Completed": 0,
+        "sum": 3,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Praful Vilas Bombatkar",
+        "Student Email": "prafulbombatkar1311@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 22:06:53 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/83947fcd-3393-4b8a-83e0-f2a860362c9a",
+        "# of Courses Completed": 0,
+        "# of Skill Badges Completed": 1,
+        "# of GenAI Game Completed": 1,
+        "sum": 2,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Karan Wasade",
+        "Student Email": "karanwasade2020@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 22:38:28 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c3688f36-6260-474f-a8a2-d1f9ad451650",
         "# of Courses Completed": 1,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 1,
-        "Sum": 2,
+        "sum": 2,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Ashleshaa Pohekar",
+        "Student Email": "heyashleshaa@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:05:51 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5045c262-b8d2-415f-97b9-5c5ef4c430e1",
+        "# of Courses Completed": 1,
+        "# of Skill Badges Completed": 0,
+        "# of GenAI Game Completed": 1,
+        "sum": 2,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -491,35 +589,91 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 1,
         "# of GenAI Game Completed": 1,
-        "Sum": 2,
+        "sum": 2,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
       {
-        "Student Name": "Praful Vilas Bombatkar",
-        "Student Email": "prafulbombatkar1311@gmail.com",
+        "Student Name": "MILIND ANIL LATE",
+        "Student Email": "23070548@ycce.in",
         "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 22:06:53 GMT+0530 (GMT+05:30)",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:21:30 GMT+0530 (GMT+05:30)",
         "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/83947fcd-3393-4b8a-83e0-f2a860362c9a",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/63fe8100-fb8f-404a-af9c-3185da8ef013",
+        "# of Courses Completed": 0,
+        "# of Skill Badges Completed": 1,
+        "# of GenAI Game Completed": 1,
+        "sum": 2,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Shreyash Panage",
+        "Student Email": "shreyashpanage90@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:36:39 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1edaff11-62ce-438f-8aad-4e5b7b373864",
+        "# of Courses Completed": 1,
+        "# of Skill Badges Completed": 0,
+        "# of GenAI Game Completed": 1,
+        "sum": 2,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Om Tajne",
+        "Student Email": "21070825@ycce.in",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:40:19 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ff7d3527-0927-4390-a134-293adba0ea08",
+        "# of Courses Completed": 1,
+        "# of Skill Badges Completed": 0,
+        "# of GenAI Game Completed": 1,
+        "sum": 2,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Pratiksha Pradip Pande",
+        "Student Email": "pratiksha.pandey0601@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 22:46:30 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d9f733ad-5638-467b-bc9e-ceb82bf8c225",
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 1,
-        "Sum": 1,
+        "sum": 1,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
       {
-        "Student Name": "ATHARVA NERKAR",
-        "Student Email": "nerkaratharva9@gmail.com",
+        "Student Name": "Manaswi Padole",
+        "Student Email": "manaswipadole76@gmail.com",
         "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 22:55:15 GMT+0530 (GMT+05:30)",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:02:32 GMT+0530 (GMT+05:30)",
         "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/9497a374-9d25-41fc-8691-b608a26c45da",
-        "# of Courses Completed": 1,
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/78b638aa-3d1f-4fa2-97c4-f8c1549dab31",
+        "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 1,
+        "# of GenAI Game Completed": 1,
+        "sum": 1,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Om Anil Umredkar",
+        "Student Email": "omumredkar.5@gmail.com",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:04:13 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/9e7f14cb-f98e-40ca-b16e-31a771f59e87",
+        "# of Courses Completed": 0,
+        "# of Skill Badges Completed": 0,
+        "# of GenAI Game Completed": 1,
+        "sum": 1,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -533,21 +687,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 1,
-        "Sum": 1,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "No"
-      },
-      {
-        "Student Name": "MILIND ANIL LATE",
-        "Student Email": "23070548@ycce.in",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:21:30 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/63fe8100-fb8f-404a-af9c-3185da8ef013",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 1,
-        "# of GenAI Game Completed": 0,
-        "Sum": 1,
+        "sum": 1,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -561,7 +701,21 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 1,
-        "Sum": 1,
+        "sum": 1,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Divyank Bhau Ghinmine",
+        "Student Email": "23070337@ycce.in",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Fri Sep 01 2023 23:23:13 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a53aa053-9bba-4d91-887c-573ae2cbd860",
+        "# of Courses Completed": 0,
+        "# of Skill Badges Completed": 0,
+        "# of GenAI Game Completed": 1,
+        "sum": 1,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -575,7 +729,7 @@ function TableIndex() {
         "# of Courses Completed": 1,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 1,
+        "sum": 1,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -589,7 +743,21 @@ function TableIndex() {
         "# of Courses Completed": 1,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 1,
+        "sum": 1,
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+      },
+      {
+        "Student Name": "Alpesh Dongre",
+        "Student Email": "21070636@ycce.in",
+        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
+        "Enrolment Date & Time": "Sat Sep 02 2023 10:58:36 GMT+0530 (GMT+05:30)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/95ff0991-4492-42db-95fc-061f3d6231c9",
+        "# of Courses Completed": 0,
+        "# of Skill Badges Completed": 0,
+        "# of GenAI Game Completed": 1,
+        "sum": 1,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -603,7 +771,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -617,7 +785,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -631,7 +799,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -645,7 +813,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -659,7 +827,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -673,7 +841,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -687,7 +855,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -701,7 +869,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -715,7 +883,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -729,7 +897,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -743,23 +911,9 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
-      },
-      {
-        "Student Name": "Atharva Dhiraj kumare",
-        "Student Email": "atharvakumare13@gmail.com",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 22:22:42 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c77ff80a-2f36-418f-91e4-532f7f6d51c6",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Anagha Sharad Chandole",
@@ -771,7 +925,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -785,7 +939,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -799,7 +953,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -813,7 +967,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -827,7 +981,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -841,7 +995,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -855,7 +1009,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -869,21 +1023,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "No"
-      },
-      {
-        "Student Name": "Karan Wasade",
-        "Student Email": "karanwasade2020@gmail.com",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 22:38:28 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c3688f36-6260-474f-a8a2-d1f9ad451650",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -897,7 +1037,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -911,21 +1051,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
-      },
-      {
-        "Student Name": "Vinay Ramesh Kamdi",
-        "Student Email": "21070941@ycce.in",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 22:40:52 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a7a31a1a-0689-4dff-9e12-3a5fb03a8291",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -939,7 +1065,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -953,7 +1079,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -967,7 +1093,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -981,7 +1107,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -995,21 +1121,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
-      },
-      {
-        "Student Name": "Pratiksha Pradip Pande",
-        "Student Email": "pratiksha.pandey0601@gmail.com",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 22:46:30 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d9f733ad-5638-467b-bc9e-ceb82bf8c225",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1023,7 +1135,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1037,7 +1149,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1051,7 +1163,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1065,7 +1177,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1079,7 +1191,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1093,7 +1205,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1107,7 +1219,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1121,7 +1233,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1135,7 +1247,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1149,7 +1261,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1163,7 +1275,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1177,7 +1289,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1191,7 +1303,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1205,7 +1317,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1219,7 +1331,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1233,7 +1345,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1247,7 +1359,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1261,7 +1373,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1275,7 +1387,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1289,7 +1401,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1303,7 +1415,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1317,7 +1429,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1331,7 +1443,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1345,7 +1457,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1359,7 +1471,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1373,7 +1485,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1387,7 +1499,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1401,7 +1513,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1415,23 +1527,9 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
-      },
-      {
-        "Student Name": "Manaswi Padole",
-        "Student Email": "manaswipadole76@gmail.com",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:02:32 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/78b638aa-3d1f-4fa2-97c4-f8c1549dab31",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Harsh Nirmalsingh Dixit",
@@ -1443,7 +1541,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1457,7 +1555,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1471,21 +1569,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
-      },
-      {
-        "Student Name": "Om Anil Umredkar",
-        "Student Email": "omumredkar.5@gmail.com",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:04:13 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/9e7f14cb-f98e-40ca-b16e-31a771f59e87",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1499,7 +1583,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1513,23 +1597,9 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
-      },
-      {
-        "Student Name": "Ashleshaa Pohekar",
-        "Student Email": "heyashleshaa@gmail.com",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:05:51 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5045c262-b8d2-415f-97b9-5c5ef4c430e1",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Shantanu Mahesh Kapkar",
@@ -1541,7 +1611,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1555,7 +1625,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1569,7 +1639,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1583,7 +1653,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1597,7 +1667,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1611,7 +1681,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1625,7 +1695,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1639,7 +1709,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1653,7 +1723,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1667,7 +1737,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1681,7 +1751,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1695,7 +1765,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1709,7 +1779,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1723,7 +1793,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1737,7 +1807,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1751,7 +1821,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1765,7 +1835,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1779,7 +1849,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1793,21 +1863,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
-      },
-      {
-        "Student Name": "Divyank Bhau Ghinmine",
-        "Student Email": "23070337@ycce.in",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:23:13 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a53aa053-9bba-4d91-887c-573ae2cbd860",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1821,7 +1877,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1835,7 +1891,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1849,7 +1905,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1863,7 +1919,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1877,7 +1933,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1891,7 +1947,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1905,7 +1961,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -1919,23 +1975,9 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
-      },
-      {
-        "Student Name": "Arya Liladhar Choudhary",
-        "Student Email": "aryac0803@gmail.com",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:26:47 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/85adc7f4-8542-4606-a0df-38cba994f974",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Aditya Rajendra Chafale",
@@ -1947,7 +1989,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1961,7 +2003,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -1975,37 +2017,9 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
-      },
-      {
-        "Student Name": "Shreyash Panage",
-        "Student Email": "shreyashpanage90@gmail.com",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:36:39 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1edaff11-62ce-438f-8aad-4e5b7b373864",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "No"
-      },
-      {
-        "Student Name": "Om Tajne",
-        "Student Email": "21070825@ycce.in",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Fri Sep 01 2023 23:40:19 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ff7d3527-0927-4390-a134-293adba0ea08",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Tushar Chaitram Sakharkar",
@@ -2017,7 +2031,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -2031,7 +2045,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -2045,7 +2059,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -2059,7 +2073,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
       },
@@ -2073,7 +2087,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -2087,7 +2101,7 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       },
@@ -2101,25 +2115,12 @@ function TableIndex() {
         "# of Courses Completed": 0,
         "# of Skill Badges Completed": 0,
         "# of GenAI Game Completed": 0,
-        "Sum": 0,
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
-      },
-      {
-        "Student Name": "Alpesh Dongre",
-        "Student Email": "21070636@ycce.in",
-        "Institution": "Yeshwantrao Chavan College Of Engineering - Nagpur",
-        "Enrolment Date & Time": "Sat Sep 02 2023 10:58:36 GMT+0530 (GMT+05:30)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/95ff0991-4492-42db-95fc-061f3d6231c9",
-        "# of Courses Completed": 0,
-        "# of Skill Badges Completed": 0,
-        "# of GenAI Game Completed": 0,
-        "Sum": 0,
+        "sum": 0,
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
       }
     ]
+  
   
   
   
