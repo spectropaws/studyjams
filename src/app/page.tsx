@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import TableIndex from "./components/Table.Index";
 
+
 export default function Home() {
   return (
     <>
