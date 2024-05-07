@@ -9,9 +9,11 @@ export default function Home() {
       <nav className="w-full  shadow-md relative ">
         <div className="bg-gray-900 text-blue-500 w-full m-auto text-center p-2 flex justify-center items-center">
           <div className="">
-            <Image src="/assets/cloudLg.png" alt="me" width="40" height="40" />
+            {/* <Image src="/assets/cloudLg.png" alt="me" width="40" height="40" /> */}
           </div>
-          <p className="">Google Cloud STUDY JAMS 23 - 24</p>
+          {/* <p className="">Google Cloud STUDY JAMS 23 - 24</p> */}
+          <p className="" style={{ color: '#f3bc0a' }}>Google Gen AI Study Jam 23 - 24</p>
+
         </div>
 
         <div className="p-3 flex mob:flex-col m-auto max-w-6xl justify-between items-center">
