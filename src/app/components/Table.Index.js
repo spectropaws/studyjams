@@ -2342,7 +2342,7 @@ function TableIndex() {
       <tr className='text-center'>
         <td className="rounded-ss-lg w-10 p-2 border-r-2 border-r-gray-300">#</td>
         <td className="rounded-ss-lg w-72 p-2 border-r-2 border-r-gray-300">Name</td>
-        <td className="mob:rounded-se-lg p-2 border-r-2 border-r-gray-300 max-w-[150px]">Completions of both Pathways</td>
+        <td className="mob:rounded-se-lg p-2 border-r-2 border-r-gray-300 max-w-[150px]">Completions of 3 Skill Badges</td>
         <td className="p-2 border-r-2 border-r-gray-300 max-w-[150px]">Prompt Design in Vertex AI </td>
         <td className="p-2 border-r-2 border-r-gray-300 max-w-[150px]">Develop GenAI Apps with Gemini... </td>
         <td className="rounded-se-lg p-2 max-w-[150px]">GenAI Game Completed</td>

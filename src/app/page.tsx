@@ -85,7 +85,7 @@ export default function Home() {
       <div className="  w-full p-2 text-center bg-gray-900 text-gray-300 md:w-full sm:w-full">
       <div
     className="w-full p-4 text-center">
-    © 2023 Copyright:
+    © 2024 Copyright:
     <a className="text-white" href="https://tailwind-elements.com/"
       > Yeshwantrao Chavan College Engineering
       </a>
