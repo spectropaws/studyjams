@@ -4,7 +4,7 @@ import TableBody from './TableBody'
 
 
 function TableIndex() {
-// 96 completions   
+// 99 completions   
  const data =  [
   {
     "User Name": "Om Manoj Tajne",
@@ -94,6 +94,18 @@ function TableIndex() {
     "User Name": "Rinesh Patil",
     "User Email": "ringengc@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/38b579dc-2026-405b-867a-66b82c94f038",
+    "Profile URL Status": "All Good",
+    "Prompt Design in Vertex AI Completion": 1,
+    "Develop GenAI Apps with Gemini and Streamlit Completion": 1,
+    "Gen AI Arcade Game Completion": 1,
+    "Sum": 3,
+    "All 3 Pathways Completed - Yes or No": "Yes",
+    "Campaign Code Redemption Status": "Yes"
+  },
+  {
+    "User Name": "Vinay Ramesh Kamdi",
+    "User Email": "v1nayk4mdi@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2adc9acf-06a0-4b63-9a0c-c9039539995b",
     "Profile URL Status": "All Good",
     "Prompt Design in Vertex AI Completion": 1,
     "Develop GenAI Apps with Gemini and Streamlit Completion": 1,
@@ -346,6 +358,18 @@ function TableIndex() {
     "User Name": "Atharva Vinod Tasare",
     "User Email": "alex21070847@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5cce3710-4618-4432-a405-87da5b914025",
+    "Profile URL Status": "All Good",
+    "Prompt Design in Vertex AI Completion": 1,
+    "Develop GenAI Apps with Gemini and Streamlit Completion": 1,
+    "Gen AI Arcade Game Completion": 1,
+    "Sum": 3,
+    "All 3 Pathways Completed - Yes or No": "Yes",
+    "Campaign Code Redemption Status": "Yes"
+  },
+  {
+    "User Name": "Abhang Kolte",
+    "User Email": "22070374@ycce.in",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/cfe54d7d-5aef-4476-b960-9cc8db903fb0",
     "Profile URL Status": "All Good",
     "Prompt Design in Vertex AI Completion": 1,
     "Develop GenAI Apps with Gemini and Streamlit Completion": 1,
@@ -811,6 +835,18 @@ function TableIndex() {
     "Campaign Code Redemption Status": "Yes"
   },
   {
+    "User Name": "Sahil Nishad Ninawe",
+    "User Email": "sahilninawe44.learn@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3752b3a3-c4d1-46a0-b5e6-0f78d9dbc9f5",
+    "Profile URL Status": "All Good",
+    "Prompt Design in Vertex AI Completion": 1,
+    "Develop GenAI Apps with Gemini and Streamlit Completion": 1,
+    "Gen AI Arcade Game Completion": 1,
+    "Sum": 3,
+    "All 3 Pathways Completed - Yes or No": "Yes",
+    "Campaign Code Redemption Status": "Yes"
+  },
+  {
     "User Name": "Vedant Jagdish Jiwanapurkar",
     "User Email": "vedantjiw2005@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/22272da6-49e3-46fc-8ff6-aa1067eec49e",
@@ -1159,18 +1195,6 @@ function TableIndex() {
     "Campaign Code Redemption Status": "Yes"
   },
   {
-    "User Name": "Vinay Ramesh Kamdi",
-    "User Email": "v1nayk4mdi@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2adc9acf-06a0-4b63-9a0c-c9039539995b",
-    "Profile URL Status": "All Good",
-    "Prompt Design in Vertex AI Completion": 1,
-    "Develop GenAI Apps with Gemini and Streamlit Completion": 1,
-    "Gen AI Arcade Game Completion": 0,
-    "Sum": 2,
-    "All 3 Pathways Completed - Yes or No": "No",
-    "Campaign Code Redemption Status": "Yes"
-  },
-  {
     "User Name": "Swanish Rambhau Mahajan",
     "User Email": "abhisekhias@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a1aac373-02f1-4c68-b408-65eb687681b8",
@@ -1195,21 +1219,9 @@ function TableIndex() {
     "Campaign Code Redemption Status": "No"
   },
   {
-    "User Name": "Abhang Kolte",
-    "User Email": "22070374@ycce.in",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/cfe54d7d-5aef-4476-b960-9cc8db903fb0",
-    "Profile URL Status": "All Good",
-    "Prompt Design in Vertex AI Completion": 1,
-    "Develop GenAI Apps with Gemini and Streamlit Completion": 0,
-    "Gen AI Arcade Game Completion": 1,
-    "Sum": 2,
-    "All 3 Pathways Completed - Yes or No": "No",
-    "Campaign Code Redemption Status": "Yes"
-  },
-  {
-    "User Name": "Sahil Nishad Ninawe",
-    "User Email": "sahilninawe44.learn@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3752b3a3-c4d1-46a0-b5e6-0f78d9dbc9f5",
+    "User Name": "Milind Anil Late",
+    "User Email": "studymilind21@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5be772bb-d2e0-4772-a867-8351487b4325",
     "Profile URL Status": "All Good",
     "Prompt Design in Vertex AI Completion": 1,
     "Develop GenAI Apps with Gemini and Streamlit Completion": 0,
@@ -1346,18 +1358,6 @@ function TableIndex() {
     "Prompt Design in Vertex AI Completion": 0,
     "Develop GenAI Apps with Gemini and Streamlit Completion": 0,
     "Gen AI Arcade Game Completion": 1,
-    "Sum": 1,
-    "All 3 Pathways Completed - Yes or No": "No",
-    "Campaign Code Redemption Status": "Yes"
-  },
-  {
-    "User Name": "Milind Anil Late",
-    "User Email": "studymilind21@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5be772bb-d2e0-4772-a867-8351487b4325",
-    "Profile URL Status": "All Good",
-    "Prompt Design in Vertex AI Completion": 1,
-    "Develop GenAI Apps with Gemini and Streamlit Completion": 0,
-    "Gen AI Arcade Game Completion": 0,
     "Sum": 1,
     "All 3 Pathways Completed - Yes or No": "No",
     "Campaign Code Redemption Status": "Yes"
