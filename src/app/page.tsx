@@ -12,7 +12,7 @@ export default function Home() {
             {/* <Image src="/assets/cloudLg.png" alt="me" width="40" height="40" /> */}
           </div>
           {/* <p className="">Google Cloud STUDY JAMS 23 - 24</p> */}
-          <p className="" style={{ color: '#f3bc0a' }}>Google Gen AI Study Jam 23 - 24</p>
+          <p className="" style={{ color: '#f3bc0a' }}>Google Gen AI Study Jam 24 - 25</p>
 
         </div>
 
@@ -27,7 +27,7 @@ export default function Home() {
               />
             </div>
             <div className="text flex flex-col justify-start items-start">
-              <p className="text-base">Google Developer Student Club</p>
+              <p className="text-base">Google Developer Groups On Campus</p>
               <p className="text-xs">
                 {" "}
                 Yeshwantrao Chavan College of Engineering
@@ -51,7 +51,7 @@ export default function Home() {
               </div>
             </Link>
 
-            <Link href="https://www.instagram.com/gdsc.ycce/">
+            <Link href="https://www.instagram.com/gdg.ycce">
               <div className="cursor-pointer instagram">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -64,7 +64,7 @@ export default function Home() {
               </div>
             </Link>
 
-            <Link href="https://gdsc.community.dev/yeshwantrao-chavan-college-of-engineering-nagpur/">
+            <Link href="https://gdg.community.dev/gdg-on-campus-yeshwantrao-chavan-college-of-engineering-nagpur-india/">
               <div className="cursor-pointer medium">
                 <div className="img w-16 h-1w-16 rounded-full ">
                   <Image
@@ -86,7 +86,7 @@ export default function Home() {
       <div
     className="w-full p-4 text-center">
     © 2024 Copyright:
-    <a className="text-white" href="https://tailwind-elements.com/"
+    <a className="text-white" href="https://gdg.community.dev/gdg-on-campus-yeshwantrao-chavan-college-of-engineering-nagpur-india/"
       > Yeshwantrao Chavan College Engineering
       </a>
   </div>

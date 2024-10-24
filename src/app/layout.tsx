@@ -9,23 +9,23 @@ interface RootLayoutProps {
 const inter = Inter({ subsets: ['latin'] })
 
 const metadata = {
-  title: 'GDSC YCCE GCCP Leaderboard',
+  title: 'GDG YCCE GCCP Leaderboard',
   image:
-    'https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png',
+    'https://gdg-studyjams.vercel.app/assets/gdg-studyjams-poster.jpg',
   type: 'website',
-  description: 'This is the leaderboard for the GDSC YCCE GCCP Jams.',
-  keywords: ['gccp', 'jams', 'ycce', 'gdscycce'],
+  description: 'This is the leaderboard for the GDG YCCE GCCP Jams.',
+  keywords: ['gdg', 'gccp', 'jams', 'ycce', 'gdgycce'],
   robots: 'index,follow',
-  'og:title': 'GDSC YCCE GCCP Leaderboard',
+  'og:title': 'GDG YCCE GCCP Leaderboard',
   'og:image':
-    'https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png',
-  'og:description': 'This is the leaderboard for the GDSC YCCE GCCP Jams.',
+    'https://gdg-studyjams.vercel.app/assets/gdg-studyjams-poster.jpg',
+  'og:description': 'This is the leaderboard for the GDG YCCE GCCP Jams.',
   'twitter:card': 'summary_large_image',
-  'twitter:title': 'GDSC YCCE GCCP Leaderboard',
-  'twitter:description': 'This is the leaderboard for the GDSC YCCE GCCP Jams.',
+  'twitter:title': 'GDG YCCE GCCP Leaderboard',
+  'twitter:description': 'This is the leaderboard for the GDG YCCE GCCP Jams.',
   'twitter:image':
-    'https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png',
-  'twitter:site': '@gdseycce',
+    'https://gdg-studyjams.vercel.app/assets/gdg-studyjams-poster.jpg',
+  'twitter:site': '@GdscYcce',
 };
 
 const RootLayout: React.FC<RootLayoutProps> = ({ children }) => {
